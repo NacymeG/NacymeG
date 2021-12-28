@@ -1,12 +1,12 @@
-👋 Hi, I’m @NacymG | Nacyme GALLEL
+• 👋 Hi, I’m @NacymG | Nacyme GALLEL
 
-👀 I’m interested in coding and playing music
+• 👀 I’m interested in coding and playing music
 
-🌱 I’m currently learning JavaScript (Vanilla, NodeJS, React)
+• 🌱 I’m currently learning JavaScript (Vanilla, NodeJS, React)
 
-💞️ I began the Wild Code School on september.
+• 💞️ I began the Wild Code School on september.
 
-📫 How to reach me :
+• 📫 How to reach me :
 
 https://github.com/NacymeG
 
