@@ -9,13 +9,21 @@
 📫 How to reach me :
 
 https://github.com/NacymeG
+
 https://www.linkedin.com/in/NacymeG/
+
 Collaborations :
 
 ✨ WCS Project 1 : 
+
 ✨ WCS Project 2 : 
+
 ✨ WCS Hackathon 1 : 
+
 Other works :
 
+
 ✨ 
+
 ✨ 
+
