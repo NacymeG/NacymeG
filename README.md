@@ -1,16 +1,21 @@
-### Hi there 👋
+👋 Hi, I’m @NacymG | Nacyme GALLEL
 
-<!--
-**NacymeG/NacymeG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I’m interested in coding and playing music
 
-Here are some ideas to get you started:
+🌱 I’m currently learning JavaScript (Vanilla, NodeJS, React)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💞️ I began the Wild Code School on september.
+
+📫 How to reach me :
+
+https://github.com/NacymeG
+https://www.linkedin.com/in/NacymeG/
+Collaborations :
+
+✨ WCS Project 1 : 
+✨ WCS Project 2 : 
+✨ WCS Hackathon 1 : 
+Other works :
+
+✨ 
+✨ 
