@@ -1,8 +1,15 @@
-• 👋 Hi, I’m @NacymG | Nacyme GALLEL
+# 👋 Hi, I’m @NacymeG | Nacyme GALLEL
 
 • 🌱 I’m currently learning JavaScript (Vanilla, NodeJS, React)
 
 • 💞️ I began the Wild Code School on september.
+
+• 📫 How to reach me :
+
+https://github.com/NacymeG
+
+https://www.linkedin.com/in/NacymeG/
+
 
 ## Profile
 Property                 | Data  
