@@ -16,10 +16,6 @@ Tool / Framework         |![React](https://img.shields.io/badge/react-%2320232a.
 Version Control                 | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 Database | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=nacymeg&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nacymeg&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/NacymeG/github-readme-stats)
-
 Collaborations :
 
 ✨ WCS Project 1 : 
@@ -35,9 +31,8 @@ Other works :
 
 ✨ 
 
-
-
-
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=nacymeg&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nacymeg&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/NacymeG/github-readme-stats)
 
 
 
