@@ -1,15 +1,12 @@
 # 👋 Hi, I’m @NacymeG | Nacyme GALLEL
 
-• 🌱 I’m currently learning JavaScript (Vanilla, NodeJS, React)
+• I’m currently learning JavaScript (Vanilla, NodeJS, React)
 
-• 💞️ I began the Wild Code School on september.
+• I began the Wild Code School on september.
 
-• 📫 How to reach me :
-
-https://github.com/NacymeG
-
-https://www.linkedin.com/in/NacymeG/
-
+## 📫 How to reach me :
+<a href="https://linkedin.com/in/NacymeG"><img src="https://img.shields.io/badge/-Nacyme%20Gallel%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:nacyme.gallel@gmail.com"><img src="https://img.shields.io/badge/-nacyme.gallel@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 ## Profile
 Property                 | Data  
@@ -23,17 +20,11 @@ Database | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=nacymeg&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nacymeg&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/NacymeG/github-readme-stats)
 
-• 📫 How to reach me :
-
-https://github.com/NacymeG
-
-https://www.linkedin.com/in/NacymeG/
-
 Collaborations :
 
 ✨ WCS Project 1 : 
 
-✨ WCS Project 2 : 
+🎴 WCS Project 2 : https://github.com/NacymeG/Planeswalker Planeswalker - A frontend project fully made with React.
 
 ✨ WCS Hackathon 1 : 
 
