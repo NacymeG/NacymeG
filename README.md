@@ -2,7 +2,7 @@
 
 • I’m currently learning JavaScript (Vanilla, NodeJS, React)
 
-• I began the Wild Code School on september.
+• I began Wild Code School on september.
 
 ## 📫 How to reach me :
 <a href="https://linkedin.com/in/NacymeG"><img src="https://img.shields.io/badge/-Nacyme%20Gallel%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
